@@ -1,0 +1,6 @@
+.env
+*.env
+/.venv
+/src/ai_model/__pycache__/
+src/ai_model/__pycache__/
+src/utils/__pycache__/
